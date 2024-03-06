@@ -990,5 +990,148 @@
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/home_category.png",
       "text": "Бытовая техника"
     }
+  ],
+  "computers": [
+    {
+      "id": 231,
+      "title": "Монитор Msi pro mp243x fhd 100hz",
+      "price": "1 959 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img1.jpg"
+    },
+    {
+      "id": 232,
+      "title": "Монитор Samsung S27C360EAM 75 Гц 27 FHD",
+      "price": "2 402 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img2.jpg"
+    },
+    {
+      "id": 233,
+      "title": "Монитор Samsung - 27 LS27C312EAIXCI Monitor, IPS, 75Hz, 5mc, FHD (1920x1080), HDMI",
+      "price": "2 212 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img3.jpg"
+    },
+    {
+      "id": 234,
+      "title": "Монитор Samsung S24AG302NI 144 Гц 1920x1080 LS24AG302NIXCI 24",
+      "price": "2 844 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img4.jpg"
+    },
+    {
+      "id": 235,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img5.jpg"
+    },
+    {
+      "id": 236,
+      "title": "Беспроводная бесшумная игровая мышь hoco DI43 60347",
+      "price": "179 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img6.jpg"
+    },
+    {
+      "id": 237,
+      "title": "Клавиатура для ноутбука Galaxy Tab S9+ / Tab S9 FE+",
+      "price": "2 330 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img7.jpg"
+    },
+    {
+      "id": 238,
+      "title": "Проводная игровая мышь AVT GAMING MAG930",
+      "price": "316 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img8.jpg"
+    },
+    {
+      "id": 239,
+      "title": "Моноблок Atech HAF27i516G512GB i5-12400F, 16/512GB SSD 27 FHD",
+      "price": "8 974 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img9.jpg"
+    },
+    {
+      "id": 240,
+      "title": "Моноблок Atech HAC24i58G256GW i5-12400F 8/256GB SSD 24 FHD Curved",
+      "price": "7 584 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img10.jpg"
+    },
+    {
+      "id": 241,
+      "title": "Моноблок Lenovo IdeaCentre AIO 3 24ALC6 R3-5300U 8/512GB SSD 23.8 FHD (F0G1000NRK)",
+      "price": "5 941 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img11.jpg"
+    },
+    {
+      "id": 242,
+      "title": "Стол компьютерный Cougar MARS PRO 150 (4610)",
+      "price": "6 287 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img12.jpeg"
+    },
+    {
+      "id": 243,
+      "title": "Системный блок Lenovo desktop 3050U 8/1000GB HDD",
+      "price": "3 710 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img13.jpg"
+    },
+    {
+      "id": 244,
+      "title": "Многофункциональный держатель для ноутбука Awei X25",
+      "price": "420 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img14.jpeg"
+    },
+    {
+      "id": 245,
+      "title": "AVerMedia Live Gamer 4K GC573 (61GC5730A0AS)",
+      "price": "3 650 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img15.png"
+    },
+    {
+      "id": 246,
+      "title": "AVerMedia Live Gamer Bolt GC555 (61GC555000A9)",
+      "price": "5 648 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img16.jpeg"
+    },
+    {
+      "id": 247,
+
+      "title": "Беспроводной набор A4Tech FB2535C",
+      "price": "456 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img17.jpg"
+    },
+    {
+      "id": 248,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img18.jpg"
+    },
+    {
+      "id": 249,
+      "title": "Проводная игровая мышь AVT GAMING MAG963",
+      "price": "303 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img19.jpg"
+    },
+    {
+      "id": 250,
+      "title": "Проводная игровая клавиатура AVT GAMING",
+      "price": "379 000",
+      "brand": "MSI",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img20.jpg"
+    }
   ]
 }
