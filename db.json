@@ -277,15 +277,6 @@
   ],
   "tel": [
     {
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/sport/img1.jpg",
-      "title": "Samsung Galaxy A05",
-      "rame": "4/128 GB",
-      "color": "Black",
-      "brand": "Samsung",
-      "price": "2 100 000",
-      "id": 20
-    },
-    {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
       "title": "Samsung Galaxy A05",
       "rame": "4/64 GB",
