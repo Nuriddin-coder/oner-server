@@ -968,27 +968,32 @@
     {
       "id": 1,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/phone_category.png",
-      "text": "Смартфоны и планшеты"
+      "text": "Смартфоны",
+      "key": "tel"
     },
     {
       "id": 2,
       "img": "https://github.com/developerdamirbek/Gipermart_images/blob/main/products/laptop_category.png?raw=true",
-      "text": "Ноутбуки"
+      "text": "Ноутбуки",
+      "key": "notebook"
     },
     {
       "id": 3,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/avto_category.png",
-      "text": "Авто мото товары"
+      "text": "Авто мото товары",
+      "key": "steeringWheel"
     },
     {
       "id": 4,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/game_category.png",
-      "text": "Компьютеры для геймеров"
+      "text": "Компьютеры для геймеров",
+      "key": "computers"
     },
     {
       "id": 5,
       "img": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/home_category.png",
-      "text": "Бытовая техника"
+      "text": "Бытовая техника",
+      "key": "washingM"
     }
   ],
   "computers": [
