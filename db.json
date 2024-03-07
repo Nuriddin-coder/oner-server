@@ -1451,7 +1451,7 @@
       "title": "Руль Lexsus",
       "price": "1 138 500",
       "color": "black",
-      "material": "Кожа",
+      "material": "Карбон",
       "id": 121
     },
     {
@@ -1459,7 +1459,7 @@
       "title": "Руль Malibu 2 Китай синий",
       "price": "1 789 200",
       "color": "black",
-      "material": "Кожа",
+      "material": "Алькантара",
       "id": 122
     },
     {
@@ -1491,7 +1491,7 @@
       "title": "Автомобильный мульти руль Chevrolet TrailBlazer 2",
       "price": "2 527 000",
       "color": "black",
-      "material": "Кожа",
+      "material": "Алькантара",
       "id": 126
     },
     {
@@ -1499,7 +1499,7 @@
       "title": "Руль для автомобиля Audi RS",
       "price": "3 440 300",
       "color": "black",
-      "material": "Кожа",
+      "material": "Алькантара",
       "id": 127
     },
     {
@@ -1507,7 +1507,7 @@
       "title": "Руль для автомобиля AMG W 223 S-class",
       "price": "7 821 000",
       "color": "black",
-      "material": "Кожа",
+      "material": "Алькантара",
       "id": 128
     },
     {
@@ -1539,7 +1539,7 @@
       "title": "Руль Chevrolet Marvel X",
       "price": "1 400 000",
       "color": "black",
-      "material": "Кожа",
+      "material": "Карбон",
       "id": 132
     },
     {
@@ -1547,7 +1547,7 @@
       "title": "Руль для автомобиля AMG 205 Черный",
       "price": "2 150 000",
       "color": "black",
-      "material": "Кожа",
+      "material": "Алькантара",
       "id": 133
     },
     {
@@ -1579,7 +1579,7 @@
       "title": "Руль Cadillac Tiptronic",
       "price": "2 090 00",
       "color": "black",
-      "material": "Кожа",
+      "material": "Алькантара",
       "id": 137
     }
   ],
@@ -2180,6 +2180,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine1.jpg",
       "title": "Стиральная машина TCL P606FLW 6 Кг",
       "price": "3 577 000",
+      "color": "white",
       "brand": "TCL"
     },
     {
@@ -2187,6 +2188,7 @@
       "title": "Стиральная машина Midea MF200W80WB/W-C (8 кг)",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine2.jpg",
       "price": "5 114 000",
+      "color": "black",
       "brand": "Midea"
     },
     {
@@ -2194,6 +2196,7 @@
       "title": "Стиральная машина Midea MF100W70/T-C 7Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine3.jpgjpg",
       "price": "4 190 000",
+      "color": "white",
       "brand": "Midea"
     },
     {
@@ -2201,6 +2204,7 @@
       "title": "Стиральная машина Midea MF100W70/W-C",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine4.jpg",
       "price": "3 977 000",
+      "color": "brown",
       "brand": " Midea"
     },
     {
@@ -2208,6 +2212,7 @@
       "title": "Стиральная машина Midea MFN03W60/T-C, 6 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine5.jpg",
       "price": "3 693 000",
+      "color": "white",
       "brand": "Midea"
     },
     {
@@ -2215,6 +2220,7 @@
       "title": "Стиральная машина Midea MFN03W60/W-C (6 Кг)",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine6.jpg",
       "price": "3 480 000",
+      "color": "white",
       "brand": "Midea"
     },
     {
@@ -2222,6 +2228,7 @@
       "title": "Стиральная машина Midea MFE06W60/W-C 6кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine7.jpg",
       "price": "3 267 000",
+      "color": "white",
       "brand": "Midea"
     },
     {
@@ -2229,6 +2236,7 @@
       "title": "Стиральная машина Midea MF100W60/T-C (6 Кг)",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine8.jpg",
       "price": "3 764 000",
+      "color": "white",
       "brand": "Midea"
     },
     {
@@ -2236,6 +2244,7 @@
       "title": "Стиральная машина полуавтомат Artel TG90P City 01",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine9.jpg",
       "price": "1 799 000",
+      "color": "brown",
       "brand": "Artel"
     },
     {
@@ -2243,6 +2252,7 @@
       "title": "Стиральная машина Rulls TD8HPW 8 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine10.jpg",
       "price": "5 473 000",
+      "color": "white",
       "brand": "Rulls"
     },
     {
@@ -2250,6 +2260,7 @@
       "title": "Стиральная машина Samsung WW6100A",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine11.jpg",
       "price": "7 647 000",
+      "color": "white",
       "brand": "Samsung"
     },
     {
@@ -2257,6 +2268,7 @@
       "title": "Стиральная машина Samsung WW80AG6S24AWLD 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine12.jpg",
       "price": "7 432 000",
+      "color": "white",
       "brand": "Samsung"
     },
     {
@@ -2264,6 +2276,7 @@
       "title": "Стиральная машина Samsung WW5100 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine13.jpg",
       "price": "6 510 000 ",
+      "color": "black",
       "brand": "Samsung"
     },
     {
@@ -2271,6 +2284,7 @@
       "title": "Стиральная машина MoonX Inverter 12 кг WMS12104DG",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine14.jpg",
       "price": "5 780 000",
+      "color": "white",
       "brand": "MoonX"
     },
     {
@@ -2278,6 +2292,7 @@
       "title": "Стиральная машина Samsung WW65AG4S21CELD",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine15.jpg",
       "price": "6 004 000",
+      "color": "white",
       "brand": "Samsung"
     },
     {
@@ -2285,14 +2300,15 @@
       "title": "Стиральная машина полуавтомат Artel TG100FP",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine16.jpg",
       "price": "2 010 000",
+      "color": "black",
       "brand": "Artel"
     },
     {
       "id": 217,
       "title": "Стиральная машина Shivaki WF90L4505K Серый",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine17.jpg",
-
       "price": "5 941 000",
+      "color": "silver",
       "brand": "Shivaki"
     },
     {
@@ -2300,6 +2316,7 @@
       "title": "Стиральная машина Shivaki WF90L4505K Коричневый",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine18.jpg",
       "price": "5 941 000 ",
+      "color": "black",
       "brand": "Shivaki"
     },
     {
@@ -2307,6 +2324,7 @@
       "title": "Стиральная машина Shivaki WF90L4505K Белый",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine19.jpg",
       "price": "5 789 000",
+      "color": "black",
       "brand": "Shivaki"
     },
     {
@@ -2314,6 +2332,7 @@
       "title": "Стиральная машина Shivaki WF90L4505K",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine20.jpg",
       "price": "5 789 000",
+      "color": "white",
       "brand": "Shivaki"
     },
     {
@@ -2321,6 +2340,7 @@
       "title": "Стиральная машина Shivaki WF80L2505K Серый",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine21.jpg",
       "price": "5 650 000",
+      "color": "white",
       "brand": "Shivaki"
     },
     {
@@ -2328,6 +2348,7 @@
       "title": "Стиральная машина Shivaki WF80L2505K Коричневый",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine22.jpg",
       "price": "5 650 000",
+      "color": "black",
       "brand": "TCL"
     },
     {
@@ -2335,6 +2356,7 @@
       "title": "Стиральная машина RULLS S104INSS 10 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine23.jpg",
       "price": "6 257 000",
+      "color": "brown",
       "brand": "Rulls"
     },
     {
@@ -2342,6 +2364,7 @@
       "title": "Стиральная машина Samsung WW80AG6S24AWLD 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine24.jpg",
       "price": "7 432 000",
+      "color": "black",
       "brand": "Samsung"
     },
     {
@@ -2349,6 +2372,7 @@
       "title": "Стиральная машина Rulls F104DDSDG 10 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine25.jpg",
       "price": "6 826 000",
+      "color": "black",
       "brand": "Rulls"
     },
     {
@@ -2356,6 +2380,7 @@
       "title": "Стиральная машина Rulls F84INSDG 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine26.jpg",
       "price": "4 652 000",
+      "color": "white",
       "brand": "Rulls"
     },
     {
@@ -2363,6 +2388,7 @@
       "title": "Стиральная машина TCL P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine27.jpg",
       "price": "5 792 000",
+      "color": "black",
       "brand": "TCL"
     },
     {
@@ -2370,6 +2396,7 @@
       "title": "Стиральная машина TCL P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine28.jpg",
       "price": "10 770 000",
+      "color": "silver",
       "brand": "TCL"
     },
     {
@@ -2377,6 +2404,7 @@
       "title": "Стиральная машина TCL P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine29.jpg",
       "price": "6 548 000",
+      "color": "white",
       "brand": "TCL"
     },
     {
@@ -2384,6 +2412,7 @@
       "title": "Стиральная машина Midea MF200D80WB/T-C 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine30.jpg",
       "price": "6 321 000",
+      "color": "white",
       "brand": "Midea"
     }
   ],
@@ -2425,6 +2454,7 @@
       "title": "Монитор Msi pro mp243x fhd 100hz",
       "price": "1 959 000",
       "brand": "MSI",
+      "Hz": "240 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img1.jpg"
     },
     {
@@ -2432,20 +2462,23 @@
       "title": "Монитор Samsung S27C360EAM 75 Гц 27 FHD",
       "price": "2 402 000",
       "brand": "MSI",
+      "Hz": "144 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img2jpg.jpg"
     },
     {
       "id": 233,
       "title": "Монитор Samsung - 27 LS27C312EAIXCI Monitor, IPS, 75Hz, 5mc, FHD (1920x1080), HDMI",
       "price": "2 212 000",
-      "brand": "MSI",
+      "brand": "Samsung",
+      "Hz": "160 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img3.jpg"
     },
     {
       "id": 234,
       "title": "Монитор Samsung S24AG302NI 144 Гц 1920x1080 LS24AG302NIXCI 24",
       "price": "2 844 000",
-      "brand": "MSI",
+      "brand": "Samsung",
+      "Hz": "200 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img4.jpg"
     },
     {
@@ -2473,7 +2506,7 @@
       "id": 238,
       "title": "Проводная игровая мышь AVT GAMING MAG930",
       "price": "316 000",
-      "brand": "MSI",
+      "brand": "Asus",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img8.jpg"
     },
     {
@@ -2481,13 +2514,15 @@
       "title": "Моноблок Atech HAF27i516G512GB i5-12400F, 16/512GB SSD 27 FHD",
       "price": "8 974 000",
       "brand": "MSI",
+      "Hz": "144 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img9.jpg"
     },
     {
       "id": 240,
       "title": "Моноблок Atech HAC24i58G256GW i5-12400F 8/256GB SSD 24 FHD Curved",
       "price": "7 584 000",
-      "brand": "MSI",
+      "brand": "Asus",
+      "Hz": "144 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img10.jpg"
     },
     {
@@ -2495,6 +2530,7 @@
       "title": "Моноблок Lenovo IdeaCentre AIO 3 24ALC6 R3-5300U 8/512GB SSD 23.8 FHD (F0G1000NRK)",
       "price": "5 941 000",
       "brand": "MSI",
+      "Hz": "120 Hz",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img11.jpg"
     },
     {
@@ -2509,6 +2545,12 @@
       "title": "Системный блок Lenovo desktop 3050U 8/1000GB HDD",
       "price": "3 710 000",
       "brand": "MSI",
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I7",
+      "weight": "3.3 kg",
+      "memory": "528 GB",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img13.jpg"
     },
     {
@@ -2551,7 +2593,7 @@
       "id": 249,
       "title": "Проводная игровая мышь AVT GAMING MAG963",
       "price": "303 000",
-      "brand": "MSI",
+      "brand": "Asus",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img19.jpg"
     },
     {
