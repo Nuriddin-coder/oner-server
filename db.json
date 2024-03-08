@@ -1218,11 +1218,71 @@
       "id": 5
     }
   ],
-  "brand": [
+  "brands": [
     {
-      "id": 4,
-      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
-      "title": "MI"
+      "id": 700,  
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-asus.png",
+      "brand": "Asus"
+    },
+    {
+      "id": 701,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-hp.png",
+      "brand": "HP"
+    },
+    {
+      "id": 702,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-lenovo.jpg",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 704,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-samsung.png",
+      "brand": "Samsung"
+    },
+    {
+      "id": 705,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-msi.png",
+      "brand": "MSI"
+    },
+    {
+      "id": 706,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-acer.png",
+      "brand": "Acer"
+    },
+    {
+      "id": 707,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-apple.png",
+      "brand": "Apple"
+    },
+    {
+      "id": 708,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-redmi.png",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": 709,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-midea.jpg",
+      "brand": "Midea"
+    },
+    {
+      "id": 710,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-shivaki.jpg",
+      "brand": "Shivaki"
+    },
+    {
+      "id": 711,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-artel.jpg",
+      "brand": "Artel"
+    },
+    {
+      "id": 712,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-mercedes.png",
+      "brand": "Mercedes"
+    },
+    {
+      "id": 713,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/brand/brand-chevrolet.jpg",
+      "brand": "Chevrolet"
     }
   ],
   "notebook": [
@@ -1312,8 +1372,8 @@
     },
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img7.jpeg?token=GHSAT0AAAAAACOWD3ASFPYEXDHRXA3N7EPSZPHADNA",
-      "title": "Ноутбук Huawei MateBook D 14 2023 i3-1215U 8 GB 256GB",
-      "brand": "Huawei",
+      "title": "Ноутбук Lenovo MateBook D 14 2023 i3-1215U 8 GB 256GB",
+      "brand": "Lenovo",
       "price": "6 664 000",
       "color": "black",
       "ram": "8 GB",
@@ -1486,6 +1546,7 @@
       "price": " 270 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 120
     },
     {
@@ -1494,6 +1555,7 @@
       "price": "1 138 500",
       "color": "black",
       "material": "Карбон",
+      "brand": "Chevrolet",
       "id": 121
     },
     {
@@ -1502,6 +1564,7 @@
       "price": "1 789 200",
       "color": "black",
       "material": "Алькантара",
+      "brand": "Chevrolet",
       "id": 122
     },
     {
@@ -1510,6 +1573,7 @@
       "price": "2 267 860 ",
       "color": "black",
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 123
     },
     {
@@ -1518,6 +1582,7 @@
       "price": "2 277 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 124
     },
     {
@@ -1526,6 +1591,7 @@
       "price": "2 114 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 125
     },
     {
@@ -1534,6 +1600,7 @@
       "price": "2 527 000",
       "color": "black",
       "material": "Алькантара",
+      "brand": "Chevrolet",
       "id": 126
     },
     {
@@ -1542,6 +1609,7 @@
       "price": "3 440 300",
       "color": "black",
       "material": "Алькантара",
+      "brand": "Chevrolet",
       "id": 127
     },
     {
@@ -1550,6 +1618,7 @@
       "price": "7 821 000",
       "color": "black",
       "material": "Алькантара",
+      "brand": "Mercedes",
       "id": 128
     },
     {
@@ -1558,6 +1627,7 @@
       "price": "4 524 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 129
     },
     {
@@ -1566,6 +1636,7 @@
       "price": "1 952 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 130
     },
     {
@@ -1574,6 +1645,7 @@
       "price": "3 700 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 131
     },
     {
@@ -1582,6 +1654,7 @@
       "price": "1 400 000",
       "color": "black",
       "material": "Карбон",
+      "brand": "Mercedes",
       "id": 132
     },
     {
@@ -1590,6 +1663,7 @@
       "price": "2 150 000",
       "color": "black",
       "material": "Алькантара",
+      "brand": "Mercedes",
       "id": 133
     },
     {
@@ -1598,6 +1672,7 @@
       "price": "750 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 134
     },
     {
@@ -1606,6 +1681,7 @@
       "price": "1 400 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 135
     },
     {
@@ -1614,6 +1690,7 @@
       "price": "3 100 000",
       "color": "black",
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 136
     },
     {
@@ -1622,6 +1699,7 @@
       "price": "2 090 00",
       "color": "black",
       "material": "Алькантара",
+      "brand": "Mercedes",
       "id": 137
     }
   ],
@@ -1657,7 +1735,7 @@
       "title": "Redmi Note 13 Pro",
       "memory": "128 GB",
       "color": "Green",
-      "brand": "Redmi",
+      "brand": "Xiaomi",
       "price": "4 450 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1719,10 +1797,10 @@
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
-      "title": "Novey Alpha A10",
+      "title": "Xiaomi Alpha A10",
       "memory": "64 GB",
       "color": "Фиолетовый",
-      "brand": "Novey",
+      "brand": "Xiaomi",
       "price": "1 479 000",
       "ram": "8 GB",
       "weight": "150 Gr",
@@ -1732,10 +1810,10 @@
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
-      "title": "Novey Alpha A10",
+      "title": "Xiaomi Alpha A10",
       "memory": "64 GB",
       "color": "Белый",
-      "brand": "Novey",
+      "brand": "Xiaomi",
       "price": "1 479 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1745,10 +1823,10 @@
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
-      "title": "Novey Alpha A10",
+      "title": "Xiaomi Alpha A10",
       "memory": "64 GB",
       "color": "Black",
-      "brand": "Novey",
+      "brand": "Xiaomi",
       "price": "1 200 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1800,7 +1878,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Pink",
-      "brand": "iPhone",
+      "branApple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1813,7 +1891,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "128 GB",
       "color": "Pink",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1826,7 +1904,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Pink",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1839,7 +1917,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Yellow",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1852,7 +1930,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Yellow",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1865,7 +1943,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "128 GB",
       "color": "Yellow",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1878,7 +1956,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Green",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "180 Gr",
@@ -1891,7 +1969,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Green",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "190 Gr",
@@ -1904,7 +1982,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Green",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "400 Gr",
@@ -1917,7 +1995,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Black",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "400 Gr",
@@ -1930,7 +2008,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Black",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1943,7 +2021,7 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "128 GB",
       "color": "Black",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1956,7 +2034,7 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Natural titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "24 611 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1969,7 +2047,7 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Natural titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "22 752 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1983,7 +2061,7 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "512 Gb",
       "color": "Natural titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "18 604 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -1996,7 +2074,7 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Black titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "24 611 000",
       "ram": "8 GB",
       "weight": "100 Gr",
@@ -2009,7 +2087,7 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Black titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "22 752 000",
       "ram": "16 GB",
       "weight": "500 Gr",
@@ -2022,7 +2100,7 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "512 Gb",
       "color": "Black titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "18 604 000",
       "ram": "16 GB",
       "weight": "400 Gr",
@@ -2223,7 +2301,7 @@
       "title": "Стиральная машина TCL P606FLW 6 Кг",
       "price": "3 577 000",
       "color": "white",
-      "brand": "TCL"
+      "brand": "Artel"
     },
     {
       "id": 202,
@@ -2291,19 +2369,19 @@
     },
     {
       "id": 210,
-      "title": "Стиральная машина Rulls TD8HPW 8 Kg",
+      "title": "Стиральная машина Samsung TD8HPW 8 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine10.jpg",
       "price": "5 473 000",
       "color": "white",
-      "brand": "Rulls"
+      "brand": "Samsung"
     },
     {
       "id": 211,
-      "title": "Стиральная машина Samsung WW6100A",
+      "title": "Стиральная машина Midea WW6100A",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine11.jpg",
       "price": "7 647 000",
       "color": "white",
-      "brand": "Samsung"
+      "brand": "Midea"
     },
     {
       "id": 212,
@@ -2323,11 +2401,11 @@
     },
     {
       "id": 214,
-      "title": "Стиральная машина MoonX Inverter 12 кг WMS12104DG",
+      "title": "Стиральная машина Midea Inverter 12 кг WMS12104DG",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine14.jpg",
       "price": "5 780 000",
       "color": "white",
-      "brand": "MoonX"
+      "brand": "Midea"
     },
     {
       "id": 215,
@@ -2391,15 +2469,15 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine22.jpg",
       "price": "5 650 000",
       "color": "black",
-      "brand": "TCL"
+      "brand": "Shivaki"
     },
     {
       "id": 223,
-      "title": "Стиральная машина RULLS S104INSS 10 Kg",
+      "title": "Стиральная машина Midea S104INSS 10 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine23.jpg",
       "price": "6 257 000",
       "color": "brown",
-      "brand": "Rulls"
+      "brand": "Midea"
     },
     {
       "id": 224,
@@ -2411,43 +2489,43 @@
     },
     {
       "id": 225,
-      "title": "Стиральная машина Rulls F104DDSDG 10 Kg",
+      "title": "Стиральная машина Artel F104DDSDG 10 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine25.jpg",
       "price": "6 826 000",
       "color": "black",
-      "brand": "Rulls"
+      "brand": "Artel"
     },
     {
       "id": 226,
-      "title": "Стиральная машина Rulls F84INSDG 8 кг",
+      "title": "Стиральная машина Samsung F84INSDG 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine26.jpg",
       "price": "4 652 000",
       "color": "white",
-      "brand": "Rulls"
+      "brand": "Samsung"
     },
     {
       "id": 227,
-      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "title": "Стиральная машина Midea P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine27.jpg",
       "price": "5 792 000",
       "color": "black",
-      "brand": "TCL"
+      "brand": "Midea"
     },
     {
       "id": 228,
-      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "title": "Стиральная машина Shivaki P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine28.jpg",
       "price": "10 770 000",
       "color": "silver",
-      "brand": "TCL"
+      "brand": "Shivaki"
     },
     {
       "id": 229,
-      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "title": "Стиральная машина Shivaki P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine29.jpg",
       "price": "6 548 000",
       "color": "white",
-      "brand": "TCL"
+      "brand": "Shivaki"
     },
     {
       "id": 230,
@@ -2534,7 +2612,7 @@
       "id": 236,
       "title": "Беспроводная бесшумная игровая мышь hoco DI43 60347",
       "price": "179 000",
-      "brand": "MSI",
+      "brand": "Asus",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img6.jpeg"
     },
     {
@@ -2599,7 +2677,7 @@
       "id": 244,
       "title": "Многофункциональный держатель для ноутбука Awei X25",
       "price": "420 000",
-      "brand": "MSI",
+      "brand": "Asus",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img14.jpeg"
     },
     {
@@ -2621,7 +2699,7 @@
 
       "title": "Беспроводной набор A4Tech FB2535C",
       "price": "456 000",
-      "brand": "MSI",
+      "brand": "Samsung",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img17.jpg"
     },
     {
