@@ -13,6 +13,7 @@
       "display": "16.5 Full HD",
       "memory": "528 GB",
       "weight": "1.5 KG",
+      "count": 12,
       "id": 100
     },
     {
@@ -27,6 +28,7 @@
       "display": "16.5 Full HD",
       "memory": "528 GB",
       "weight": "1.5 KG",
+      "count": 31,
       "id": 101
     },
     {
@@ -41,6 +43,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 56,
       "id": 102
     },
     {
@@ -55,6 +58,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 88,
       "id": 103
     },
     {
@@ -69,6 +73,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 48,
       "id": 104
     },
     {
@@ -83,12 +88,13 @@
       "display": "16.5 Full HD",
       "memory": "512 GB",
       "weight": "2.5 KG",
+      "count": 4,
       "id": 105
     },
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img7.jpeg?token=GHSAT0AAAAAACOWD3ASFPYEXDHRXA3N7EPSZPHADNA",
-      "title": "Ноутбук Huawei MateBook D 14 2023 i3-1215U 8 GB 256GB",
-      "brand": "Huawei",
+      "title": "Ноутбук Lenovo MateBook D 14 2023 i3-1215U 8 GB 256GB",
+      "brand": "Lenovo",
       "price": "6 664 000",
       "color": "black",
       "ram": "8 GB",
@@ -97,6 +103,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 212,
       "id": 106
     },
     {
@@ -111,6 +118,7 @@
       "display": "16.5 Full HD",
       "memory": "512 GB",
       "weight": "1.5 KG",
+      "count": 38,
       "id": 107
     },
     {
@@ -125,6 +133,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 71,
       "id": 108
     },
     {
@@ -139,6 +148,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 29,
       "id": 109
     },
     {
@@ -153,6 +163,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 33,
       "id": 110
     },
     {
@@ -167,6 +178,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 60,
       "id": 111
     },
     {
@@ -181,6 +193,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 77,
       "id": 112
     },
     {
@@ -195,6 +208,7 @@
       "display": "17 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 122,
       "id": 113
     },
     {
@@ -209,6 +223,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 55,
       "id": 114
     },
     {
@@ -223,6 +238,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 19,
       "id": 115
     },
     {
@@ -237,6 +253,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 199,
       "id": 116
     },
     {
@@ -251,6 +268,7 @@
       "display": "16.5 Full HD",
       "memory": "280 GB",
       "weight": "1.5 KG",
+      "count": 92,
       "id": 117
     },
     {
@@ -258,7 +276,9 @@
       "title": "середина руля Gentra",
       "price": " 270 000",
       "color": "black",
+      "count": 12,
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 120
     },
     {
@@ -266,7 +286,9 @@
       "title": "Руль Lexsus",
       "price": "1 138 500",
       "color": "black",
+      "count": 127,
       "material": "Карбон",
+      "brand": "Chevrolet",
       "id": 121
     },
     {
@@ -274,7 +296,9 @@
       "title": "Руль Malibu 2 Китай синий",
       "price": "1 789 200",
       "color": "black",
+      "count": 44,
       "material": "Алькантара",
+      "brand": "Chevrolet",
       "id": 122
     },
     {
@@ -282,7 +306,9 @@
       "title": "Руль Malibu 2 original black",
       "price": "2 267 860 ",
       "color": "black",
+      "count": 26,
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 123
     },
     {
@@ -290,7 +316,9 @@
       "title": "Руль Malibu 1 Черный",
       "price": "2 277 000",
       "color": "black",
+      "count": 48,
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 124
     },
     {
@@ -298,7 +326,9 @@
       "title": "Руль Cadillac",
       "price": "2 114 000",
       "color": "black",
+      "count": 72,
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 125
     },
     {
@@ -306,7 +336,9 @@
       "title": "Автомобильный мульти руль Chevrolet TrailBlazer 2",
       "price": "2 527 000",
       "color": "black",
+      "count": 89,
       "material": "Алькантара",
+      "brand": "Chevrolet",
       "id": 126
     },
     {
@@ -314,7 +346,9 @@
       "title": "Руль для автомобиля Audi RS",
       "price": "3 440 300",
       "color": "black",
+      "count": 97,
       "material": "Алькантара",
+      "brand": "Chevrolet",
       "id": 127
     },
     {
@@ -322,7 +356,9 @@
       "title": "Руль для автомобиля AMG W 223 S-class",
       "price": "7 821 000",
       "color": "black",
+      "count": 57,
       "material": "Алькантара",
+      "brand": "Mercedes",
       "id": 128
     },
     {
@@ -330,7 +366,9 @@
       "title": "Руль для автомобиля Maybach 223",
       "price": "4 524 000",
       "color": "black",
+      "count": 6,
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 129
     },
     {
@@ -338,7 +376,9 @@
       "title": "Автомобильный мульти руль Audi (start)",
       "price": "1 952 000",
       "color": "black",
+      "count": 66,
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 130
     },
     {
@@ -346,7 +386,9 @@
       "title": "Руль для автомобиля AMG G-class Черный - серый",
       "price": "3 700 000",
       "color": "black",
+      "count": 37,
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 131
     },
     {
@@ -354,7 +396,9 @@
       "title": "Руль Chevrolet Marvel X",
       "price": "1 400 000",
       "color": "black",
+      "count": 42,
       "material": "Карбон",
+      "brand": "Mercedes",
       "id": 132
     },
     {
@@ -362,7 +406,9 @@
       "title": "Руль для автомобиля AMG 205 Черный",
       "price": "2 150 000",
       "color": "black",
+      "count": 73,
       "material": "Алькантара",
+      "brand": "Mercedes",
       "id": 133
     },
     {
@@ -370,7 +416,9 @@
       "title": "Руль для автомобиля Xongqi",
       "price": "750 000",
       "color": "black",
+      "count": 39,
       "material": "Кожа",
+      "brand": "Chevrolet",
       "id": 134
     },
     {
@@ -378,7 +426,9 @@
       "title": "Руль Chevrolet Marvel",
       "price": "1 400 000",
       "color": "black",
+      "count": 51,
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 135
     },
     {
@@ -386,7 +436,9 @@
       "title": "Руль Mercedes Gelandewagen Tiptronic",
       "price": "3 100 000",
       "color": "black",
+      "count": 28,
       "material": "Кожа",
+      "brand": "Mercedes",
       "id": 136
     },
     {
@@ -394,162 +446,10 @@
       "title": "Руль Cadillac Tiptronic",
       "price": "2 090 00",
       "color": "black",
+      "count": 32,
       "material": "Алькантара",
+      "brand": "Mercedes",
       "id": 137
-    },
-    {
-      "id": 231,
-      "title": "Монитор Msi pro mp243x fhd 100hz",
-      "price": "1 959 000",
-      "brand": "MSI",
-      "Hz": "240 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img1.jpg"
-    },
-    {
-      "id": 232,
-      "title": "Монитор Samsung S27C360EAM 75 Гц 27 FHD",
-      "price": "2 402 000",
-      "brand": "MSI",
-      "Hz": "144 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img2jpg.jpg"
-    },
-    {
-      "id": 233,
-      "title": "Монитор Samsung - 27 LS27C312EAIXCI Monitor, IPS, 75Hz, 5mc, FHD (1920x1080), HDMI",
-      "price": "2 212 000",
-      "brand": "Samsung",
-      "Hz": "160 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img3.jpg"
-    },
-    {
-      "id": 234,
-      "title": "Монитор Samsung S24AG302NI 144 Гц 1920x1080 LS24AG302NIXCI 24",
-      "price": "2 844 000",
-      "brand": "Samsung",
-      "Hz": "200 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img4.jpg"
-    },
-    {
-      "id": 235,
-      "title": "Клавиатура Redragon Anivia",
-      "price": "531 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img5.jpg"
-    },
-    {
-      "id": 236,
-      "title": "Беспроводная бесшумная игровая мышь hoco DI43 60347",
-      "price": "179 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img6.jpeg"
-    },
-    {
-      "id": 237,
-      "title": "Клавиатура для ноутбука Galaxy Tab S9+ / Tab S9 FE+",
-      "price": "2 330 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img7.jpg"
-    },
-    {
-      "id": 238,
-      "title": "Проводная игровая мышь AVT GAMING MAG930",
-      "price": "316 000",
-      "brand": "Asus",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img8.jpg"
-    },
-    {
-      "id": 239,
-      "title": "Моноблок Atech HAF27i516G512GB i5-12400F, 16/512GB SSD 27 FHD",
-      "price": "8 974 000",
-      "brand": "MSI",
-      "Hz": "144 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img9.jpg"
-    },
-    {
-      "id": 240,
-      "title": "Моноблок Atech HAC24i58G256GW i5-12400F 8/256GB SSD 24 FHD Curved",
-      "price": "7 584 000",
-      "brand": "Asus",
-      "Hz": "144 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img10.jpg"
-    },
-    {
-      "id": 241,
-      "title": "Моноблок Lenovo IdeaCentre AIO 3 24ALC6 R3-5300U 8/512GB SSD 23.8 FHD (F0G1000NRK)",
-      "price": "5 941 000",
-      "brand": "MSI",
-      "Hz": "120 Hz",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img11.jpg"
-    },
-    {
-      "id": 242,
-      "title": "Стол компьютерный Cougar MARS PRO 150 (4610)",
-      "price": "6 287 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img12.jpeg"
-    },
-    {
-      "id": 243,
-      "title": "Системный блок Lenovo desktop 3050U 8/1000GB HDD",
-      "price": "3 710 000",
-      "brand": "MSI",
-      "color": "black",
-      "ram": "16 GB",
-      "geForce": "RTX 4090",
-      "core": "Intel I7",
-      "weight": "3.3 kg",
-      "memory": "528 GB",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img13.jpg"
-    },
-    {
-      "id": 244,
-      "title": "Многофункциональный держатель для ноутбука Awei X25",
-      "price": "420 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img14.jpeg"
-    },
-    {
-      "id": 245,
-      "title": "AVerMedia Live Gamer 4K GC573 (61GC5730A0AS)",
-      "price": "3 650 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img15.png"
-    },
-    {
-      "id": 246,
-      "title": "AVerMedia Live Gamer Bolt GC555 (61GC555000A9)",
-      "price": "5 648 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img16.jpeg"
-    },
-    {
-      "id": 247,
-
-      "title": "Беспроводной набор A4Tech FB2535C",
-      "price": "456 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img17.jpg"
-    },
-    {
-      "id": 248,
-      "title": "Клавиатура Redragon Anivia",
-      "price": "531 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img18.jpg"
-    },
-    {
-      "id": 249,
-      "title": "Проводная игровая мышь AVT GAMING MAG963",
-      "price": "303 000",
-      "brand": "Asus",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img19.jpg"
-    },
-    {
-      "id": 250,
-      "title": "Проводная игровая клавиатура AVT GAMING",
-      "price": "379 000",
-      "brand": "MSI",
-      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img20.jpg"
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone2.jpg",
@@ -561,6 +461,7 @@
       "ram": "8 GB",
       "weight": "150 Gr",
       "internet": "4G",
+      "count": 36,
       "camera": "64/8/8",
       "id": 21
     },
@@ -574,6 +475,7 @@
       "ram": "12 GB",
       "weight": "200 Gr",
       "internet": "5G",
+      "count": 13,
       "camera": "64/12/12",
       "id": 22
     },
@@ -582,11 +484,12 @@
       "title": "Redmi Note 13 Pro",
       "memory": "128 GB",
       "color": "Green",
-      "brand": "Redmi",
+      "brand": "Xiaomi",
       "price": "4 450 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 32,
       "camera": "64/12/12",
       "id": 23
     },
@@ -600,6 +503,7 @@
       "ram": "8 GB",
       "weight": "150 Gr",
       "internet": "5G",
+      "count": 88,
       "camera": "64/12/12",
       "id": 24
     },
@@ -613,6 +517,7 @@
       "ram": "8 GB",
       "weight": "200 Gr",
       "internet": "5G",
+      "count": 46,
       "camera": "64/12/12",
       "id": 25
     },
@@ -626,6 +531,7 @@
       "ram": "8 GB",
       "weight": "150 Gr",
       "internet": "5G",
+      "count": 22,
       "camera": "64/12/12",
       "id": 26
     },
@@ -639,45 +545,49 @@
       "ram": "16 GB",
       "weight": "250 Gr",
       "internet": "5G",
+      "count": 38,
       "camera": "64/24/24",
       "id": 27
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone9.jpg",
-      "title": "Novey Alpha A10",
+      "title": "Xiaomi Alpha A10",
       "memory": "64 GB",
       "color": "Фиолетовый",
-      "brand": "Novey",
+      "brand": "Xiaomi",
       "price": "1 479 000",
       "ram": "8 GB",
       "weight": "150 Gr",
       "internet": "5G",
+      "count": 94,
       "camera": "64/12/12",
       "id": 28
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone10.jpg",
-      "title": "Novey Alpha A10",
+      "title": "Xiaomi Alpha A10",
       "memory": "64 GB",
       "color": "Белый",
-      "brand": "Novey",
+      "brand": "Xiaomi",
       "price": "1 479 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 84,
       "camera": "64/12/12",
       "id": 29
     },
     {
       "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone11.jpg",
-      "title": "Novey Alpha A10",
+      "title": "Xiaomi Alpha A10",
       "memory": "64 GB",
       "color": "Black",
-      "brand": "Novey",
+      "brand": "Xiaomi",
       "price": "1 200 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 47,
       "camera": "64/12/12",
       "id": 30
     },
@@ -691,6 +601,7 @@
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 65,
       "camera": "64/12/12",
       "id": 31
     },
@@ -704,6 +615,7 @@
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 43,
       "camera": "64/12/12",
       "id": 32
     },
@@ -717,6 +629,7 @@
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 15,
       "camera": "64/12/12",
       "id": 33
     },
@@ -725,11 +638,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Pink",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 79,
       "camera": "64/12/12",
       "id": 34
     },
@@ -738,11 +652,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "128 GB",
       "color": "Pink",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 89,
       "camera": "64/12/12",
       "id": 35
     },
@@ -751,11 +666,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Pink",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 109,
       "camera": "64/12/12",
       "id": 36
     },
@@ -764,11 +680,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Yellow",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 130,
       "camera": "64/12/12",
       "id": 37
     },
@@ -777,11 +694,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Yellow",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 21,
       "camera": "64/12/12",
       "id": 38
     },
@@ -790,11 +708,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "128 GB",
       "color": "Yellow",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 23,
       "camera": "64/12/12",
       "id": 39
     },
@@ -803,11 +722,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Green",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "180 Gr",
       "internet": "5G",
+      "count": 35,
       "camera": "64/12/12",
       "id": 40
     },
@@ -816,11 +736,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Green",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "190 Gr",
       "internet": "5G",
+      "count": 61,
       "camera": "64/12/12",
       "id": 41
     },
@@ -829,11 +750,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Green",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "400 Gr",
       "internet": "5G",
+      "count": 73,
       "camera": "64/12/12",
       "id": 42
     },
@@ -842,11 +764,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "512 GB",
       "color": "Black",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "14 940 000",
       "ram": "8 GB",
       "weight": "400 Gr",
       "internet": "5G",
+      "count": 86,
       "camera": "64/12/12",
       "id": 43
     },
@@ -855,11 +778,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "256 GB",
       "color": "Black",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "15 547 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 95,
       "camera": "64/12/12",
       "id": 44
     },
@@ -868,11 +792,12 @@
       "title": "Apple iPhone 15 Plus",
       "memory": "128 GB",
       "color": "Black",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "13 904 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 79,
       "camera": "64/12/12",
       "id": 45
     },
@@ -881,11 +806,12 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Natural titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "24 611 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 44,
       "camera": "64/12/12",
       "id": 46
     },
@@ -894,11 +820,12 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Natural titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "22 752 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 62,
       "camera": "64/12/12",
       "id": 47
     },
@@ -908,11 +835,12 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "512 Gb",
       "color": "Natural titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "18 604 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 36,
       "camera": "64/12/12",
       "id": 48
     },
@@ -921,11 +849,12 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Black titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "24 611 000",
       "ram": "8 GB",
       "weight": "100 Gr",
       "internet": "5G",
+      "count": 78,
       "camera": "128/32/32",
       "id": 49
     },
@@ -934,11 +863,12 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "1 TB",
       "color": "Black titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "22 752 000",
       "ram": "16 GB",
       "weight": "500 Gr",
       "internet": "5G",
+      "count": 90,
       "camera": "64/22/22",
       "id": 50
     },
@@ -947,11 +877,12 @@
       "title": "Apple iPhone 15 Pro Max",
       "memory": "512 Gb",
       "color": "Black titanium",
-      "brand": "iPhone",
+      "brand": "Apple",
       "price": "18 604 000",
       "ram": "16 GB",
       "weight": "400 Gr",
       "internet": "5G",
+      "count": 422,
       "camera": "64/12/12",
       "id": 51
     },
@@ -961,7 +892,8 @@
       "title": "Стиральная машина TCL P606FLW 6 Кг",
       "price": "3 577 000",
       "color": "white",
-      "brand": "TCL"
+      "count": 16,
+      "brand": "Artel"
     },
     {
       "id": 202,
@@ -969,6 +901,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine2.jpg",
       "price": "5 114 000",
       "color": "black",
+      "count": 56,
       "brand": "Midea"
     },
     {
@@ -977,6 +910,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine3.jpgjpg",
       "price": "4 190 000",
       "color": "white",
+      "count": 65,
       "brand": "Midea"
     },
     {
@@ -985,6 +919,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine4.jpg",
       "price": "3 977 000",
       "color": "brown",
+      "count": 32,
       "brand": " Midea"
     },
     {
@@ -993,6 +928,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine5.jpg",
       "price": "3 693 000",
       "color": "white",
+      "count": 32,
       "brand": "Midea"
     },
     {
@@ -1001,6 +937,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine6.jpg",
       "price": "3 480 000",
       "color": "white",
+      "count": 32,
       "brand": "Midea"
     },
     {
@@ -1009,6 +946,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine7.jpg",
       "price": "3 267 000",
       "color": "white",
+      "count": 32,
       "brand": "Midea"
     },
     {
@@ -1017,6 +955,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine8.jpg",
       "price": "3 764 000",
       "color": "white",
+      "count": 32,
       "brand": "Midea"
     },
     {
@@ -1025,23 +964,26 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine9.jpg",
       "price": "1 799 000",
       "color": "brown",
+      "count": 32,
       "brand": "Artel"
     },
     {
       "id": 210,
-      "title": "Стиральная машина Rulls TD8HPW 8 Kg",
+      "title": "Стиральная машина Samsung TD8HPW 8 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine10.jpg",
       "price": "5 473 000",
       "color": "white",
-      "brand": "Rulls"
+      "count": 32,
+      "brand": "Samsung"
     },
     {
       "id": 211,
-      "title": "Стиральная машина Samsung WW6100A",
+      "title": "Стиральная машина Midea WW6100A",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine11.jpg",
       "price": "7 647 000",
       "color": "white",
-      "brand": "Samsung"
+      "count": 32,
+      "brand": "Midea"
     },
     {
       "id": 212,
@@ -1049,6 +991,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine12.jpg",
       "price": "7 432 000",
       "color": "white",
+      "count": 32,
       "brand": "Samsung"
     },
     {
@@ -1057,15 +1000,17 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine13.jpg",
       "price": "6 510 000 ",
       "color": "black",
+      "count": 32,
       "brand": "Samsung"
     },
     {
       "id": 214,
-      "title": "Стиральная машина MoonX Inverter 12 кг WMS12104DG",
+      "title": "Стиральная машина Midea Inverter 12 кг WMS12104DG",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine14.jpg",
       "price": "5 780 000",
       "color": "white",
-      "brand": "MoonX"
+      "count": 32,
+      "brand": "Midea"
     },
     {
       "id": 215,
@@ -1073,6 +1018,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine15.jpg",
       "price": "6 004 000",
       "color": "white",
+      "count": 32,
       "brand": "Samsung"
     },
     {
@@ -1081,6 +1027,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine16.jpg",
       "price": "2 010 000",
       "color": "black",
+      "count": 32,
       "brand": "Artel"
     },
     {
@@ -1089,6 +1036,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine17.jpg",
       "price": "5 941 000",
       "color": "silver",
+      "count": 32,
       "brand": "Shivaki"
     },
     {
@@ -1097,6 +1045,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine18.jpg",
       "price": "5 941 000 ",
       "color": "black",
+      "count": 32,
       "brand": "Shivaki"
     },
     {
@@ -1105,6 +1054,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine19.jpg",
       "price": "5 789 000",
       "color": "black",
+      "count": 32,
       "brand": "Shivaki"
     },
     {
@@ -1113,6 +1063,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine20.jpg",
       "price": "5 789 000",
       "color": "white",
+      "count": 32,
       "brand": "Shivaki"
     },
     {
@@ -1121,6 +1072,7 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine21.jpg",
       "price": "5 650 000",
       "color": "white",
+      "count": 32,
       "brand": "Shivaki"
     },
     {
@@ -1129,15 +1081,17 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine22.jpg",
       "price": "5 650 000",
       "color": "black",
-      "brand": "TCL"
+      "count": 32,
+      "brand": "Shivaki"
     },
     {
       "id": 223,
-      "title": "Стиральная машина RULLS S104INSS 10 Kg",
+      "title": "Стиральная машина Midea S104INSS 10 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine23.jpg",
       "price": "6 257 000",
       "color": "brown",
-      "brand": "Rulls"
+      "count": 32,
+      "brand": "Midea"
     },
     {
       "id": 224,
@@ -1145,47 +1099,53 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine24.jpg",
       "price": "7 432 000",
       "color": "black",
+      "count": 32,
       "brand": "Samsung"
     },
     {
       "id": 225,
-      "title": "Стиральная машина Rulls F104DDSDG 10 Kg",
+      "title": "Стиральная машина Artel F104DDSDG 10 Kg",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine25.jpg",
       "price": "6 826 000",
       "color": "black",
-      "brand": "Rulls"
+      "count": 32,
+      "brand": "Artel"
     },
     {
       "id": 226,
-      "title": "Стиральная машина Rulls F84INSDG 8 кг",
+      "title": "Стиральная машина Samsung F84INSDG 8 кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine26.jpg",
       "price": "4 652 000",
       "color": "white",
-      "brand": "Rulls"
+      "count": 32,
+      "brand": "Samsung"
     },
     {
       "id": 227,
-      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "title": "Стиральная машина Midea P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine27.jpg",
       "price": "5 792 000",
       "color": "black",
-      "brand": "TCL"
+      "count": 32,
+      "brand": "Midea"
     },
     {
       "id": 228,
-      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "title": "Стиральная машина Shivaki P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine28.jpg",
       "price": "10 770 000",
       "color": "silver",
-      "brand": "TCL"
+      "count": 32,
+      "brand": "Shivaki"
     },
     {
       "id": 229,
-      "title": "Стиральная машина TCL P606FLW 6 Кг",
+      "title": "Стиральная машина Shivaki P606FLW 6 Кг",
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine29.jpg",
       "price": "6 548 000",
       "color": "white",
-      "brand": "TCL"
+      "count": 32,
+      "brand": "Shivaki"
     },
     {
       "id": 230,
@@ -1193,7 +1153,182 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/GiperImgs/main/washing%20machine30.jpg",
       "price": "6 321 000",
       "color": "white",
+      "count": 32,
       "brand": "Midea"
+    },
+    {
+      "id": 231,
+      "title": "Монитор Msi pro mp243x fhd 100hz",
+      "price": "1 959 000",
+      "brand": "MSI",
+      "count": 56,
+      "Hz": "240 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img1.jpg"
+    },
+    {
+      "id": 232,
+      "title": "Монитор Samsung S27C360EAM 75 Гц 27 FHD",
+      "price": "2 402 000",
+      "brand": "MSI",
+      "count": 56,
+      "Hz": "144 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img2jpg.jpg"
+    },
+    {
+      "id": 233,
+      "title": "Монитор Samsung - 27 LS27C312EAIXCI Monitor, IPS, 75Hz, 5mc, FHD (1920x1080), HDMI",
+      "price": "2 212 000",
+      "brand": "Samsung",
+      "count": 56,
+      "Hz": "160 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img3.jpg"
+    },
+    {
+      "id": 234,
+      "title": "Монитор Samsung S24AG302NI 144 Гц 1920x1080 LS24AG302NIXCI 24",
+      "price": "2 844 000",
+      "brand": "Samsung",
+      "count": 56,
+      "Hz": "200 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img4.jpg"
+    },
+    {
+      "id": 235,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img5.jpg"
+    },
+    {
+      "id": 236,
+      "title": "Беспроводная бесшумная игровая мышь hoco DI43 60347",
+      "price": "179 000",
+      "brand": "Asus",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img6.jpeg"
+    },
+    {
+      "id": 237,
+      "title": "Клавиатура для ноутбука Galaxy Tab S9+ / Tab S9 FE+",
+      "price": "2 330 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img7.jpg"
+    },
+    {
+      "id": 238,
+      "title": "Проводная игровая мышь AVT GAMING MAG930",
+      "price": "316 000",
+      "brand": "Asus",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img8.jpg"
+    },
+    {
+      "id": 239,
+      "title": "Моноблок Atech HAF27i516G512GB i5-12400F, 16/512GB SSD 27 FHD",
+      "price": "8 974 000",
+      "brand": "MSI",
+      "count": 56,
+      "Hz": "144 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img9.jpg"
+    },
+    {
+      "id": 240,
+      "title": "Моноблок Atech HAC24i58G256GW i5-12400F 8/256GB SSD 24 FHD Curved",
+      "price": "7 584 000",
+      "brand": "Asus",
+      "count": 56,
+      "Hz": "144 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img10.jpg"
+    },
+    {
+      "id": 241,
+      "title": "Моноблок Lenovo IdeaCentre AIO 3 24ALC6 R3-5300U 8/512GB SSD 23.8 FHD (F0G1000NRK)",
+      "price": "5 941 000",
+      "brand": "MSI",
+      "count": 56,
+      "Hz": "120 Hz",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img11.jpg"
+    },
+    {
+      "id": 242,
+      "title": "Стол компьютерный Cougar MARS PRO 150 (4610)",
+      "price": "6 287 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img12.jpeg"
+    },
+    {
+      "id": 243,
+      "title": "Системный блок Lenovo desktop 3050U 8/1000GB HDD",
+      "price": "3 710 000",
+      "brand": "MSI",
+      "count": 56,
+      "color": "black",
+      "ram": "16 GB",
+      "geForce": "RTX 4090",
+      "core": "Intel I7",
+      "weight": "3.3 kg",
+      "memory": "528 GB",
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img13.jpg"
+    },
+    {
+      "id": 244,
+      "title": "Многофункциональный держатель для ноутбука Awei X25",
+      "price": "420 000",
+      "brand": "Asus",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img14.jpeg"
+    },
+    {
+      "id": 245,
+      "title": "AVerMedia Live Gamer 4K GC573 (61GC5730A0AS)",
+      "price": "3 650 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img15.png"
+    },
+    {
+      "id": 246,
+      "title": "AVerMedia Live Gamer Bolt GC555 (61GC555000A9)",
+      "price": "5 648 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img16.jpeg"
+    },
+    {
+      "id": 247,
+
+      "title": "Беспроводной набор A4Tech FB2535C",
+      "price": "456 000",
+      "brand": "Samsung",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img17.jpg"
+    },
+    {
+      "id": 248,
+      "title": "Клавиатура Redragon Anivia",
+      "price": "531 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img18.jpg"
+    },
+    {
+      "id": 249,
+      "title": "Проводная игровая мышь AVT GAMING MAG963",
+      "price": "303 000",
+      "brand": "Asus",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img19.jpg"
+    },
+    {
+      "id": 250,
+      "title": "Проводная игровая клавиатура AVT GAMING",
+      "price": "379 000",
+      "brand": "MSI",
+      "count": 56,
+      "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img20.jpg"
     }
   ],
   "banner": [
