@@ -1331,6 +1331,39 @@
       "img": "https://raw.githubusercontent.com/Abduhoshimov/giperImg/main/comp-imgs/comp-img20.jpg"
     }
   ],
+  "category": [
+    {
+      "name": "notebook",
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img2.jpeg?token=GHSAT0AAAAAACOWD3ATUOVDQ6M4JJ4YXRJOZPG733Q",
+      "attribute": [
+        {
+          "id": 1,
+          "name": "Ram",
+          "keyName": "ram_like",
+          "values": ["16 GB", "32 GB", "8 GB", "4 GB"]
+        },
+        {
+          "id": 2,
+          "name": "Memory",
+          "keyName": "memory_like",
+          "values": ["1 TB", "512 GB", "256 GB", "4 GB"]
+        },
+        {
+          "id": 3,
+          "name": "Brand",
+          "keyName": "brand_like",
+          "values": ["Asus", "HP", "Lenovo", "MSI", "Acer", "Apple"]
+        },
+        {
+          "id": 4,
+          "name": "Color",
+          "keyName": "color_like",
+          "values": ["black", "white", "brown", "silver"]
+        }
+      ]
+    }
+  ],
   "banner": [
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/banner/banner-im4.jpg?token=GHSAT0AAAAAACOWD3ASX2IYWF3DYTTVPCRWZPHRJ3A",
@@ -1439,7 +1472,7 @@
     {
       "img": "https://raw.githubusercontent.com/Nuriddin-coder/Gipper-Imgs/main/notebook/notebook-img2.jpeg?token=GHSAT0AAAAAACOWD3ATUOVDQ6M4JJ4YXRJOZPG733Q",
       "title": "Ноутбук MSI Pulse GL76 12UGK-258 i7-12700H 16 GB 1TB SSD RTX3070 8G 17.3",
-      "brand": "Asus",
+      "brand": "MSI",
       "price": "19 716 000",
       "color": "black",
       "ram": "32 GB",
